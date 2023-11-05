@@ -1,0 +1,4 @@
+Pump:Capillary    
+Quantity:5    
+Cost:10000 INR    
+Time:4.0 hr    
